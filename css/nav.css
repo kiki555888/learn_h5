@@ -10,7 +10,7 @@ header.global {
 header.global .mobile_head {
   background: white;
   padding: 2.25em 0;
-  height: 6.25em;
+  height: 2.25em;
   transition: -webkit-transform .3s ease;
   transition: transform .3s ease;
   box-shadow: 0 0 1em 0 rgba(4, 49, 64, 0.1);
@@ -105,7 +105,7 @@ header.global.nav--hide .mobile_head {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 700;
-  color: rgba(89, 122, 150, 0.8);
+  color: rgba(216,177,175, 0.8);
   transition: -webkit-transform .3s ease, opacity .3s ease;
   transition: transform .3s ease, opacity .3s ease;
   -webkit-transform: translateY(-20%);
@@ -216,7 +216,6 @@ nav.main .nav_close {
   cursor: pointer;
   top: 1.25em;
   right: 1.25em;
-  width: 1.25em;
   height: 1.25em;
 }
 nav.main .main_nav {
