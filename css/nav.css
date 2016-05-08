@@ -10,7 +10,7 @@ header.global {
 header.global .mobile_head {
   background: white;
   padding: 2.25em 0;
-  height: 2.25em;
+  height: 1.25em;
   transition: -webkit-transform .3s ease;
   transition: transform .3s ease;
   box-shadow: 0 0 1em 0 rgba(4, 49, 64, 0.1);
