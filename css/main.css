@@ -1,0 +1,12 @@
+body {
+	height: 100%;
+	margin: 0;
+	background-color: #fafafa;
+	color: #7b2e2e;
+	font-size: 15px;
+	line-height: 1.7;
+	font-family: "'Helvetica Neue',Helvetica,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',Arial,sans-serif";
+	-webkit-font-smoothing:subpixel-antialiased;
+	
+
+}
